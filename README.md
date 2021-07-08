@@ -1,6 +1,6 @@
-# Hola, soy Ignacio D. López.
+# Qué tal soy, Ignacio D. López.
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Tengo 20 años, me encuentro estudiando Desarrollo de Software y me considero un gran entusiasta de la tecnología._
 
 ## Comenzando 🚀
 
