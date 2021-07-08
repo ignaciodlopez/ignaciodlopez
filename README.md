@@ -1,4 +1,4 @@
-# Qué tal soy, Ignacio D. López.
+# Qué tal, soy Ignacio D. López.
 
 _Tengo 20 años, me encuentro estudiando Desarrollo de Software y me considero un gran entusiasta de la tecnología._
 
