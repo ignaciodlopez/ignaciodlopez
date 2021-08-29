@@ -8,7 +8,7 @@ _Aplico y aprendo:_
 
 * C# Windows Forms.
 * HTML/CSS.
-* Visual Basic.
+* Visual Basic .NET.
 * Firebase.
 * Microsoft SQL Server.
 * Vs Code.
