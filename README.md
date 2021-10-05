@@ -13,8 +13,8 @@ _Aplico y aprendo:_
 * Microsoft SQL Server.
 * Vs Code.
 * Visual Studio.
-* *PHP / Laravel.
-* *MySQL
+* PHP / Laravel.
+* MySQL
 
 #### Mis Redes:
 
