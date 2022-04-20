@@ -7,13 +7,11 @@ _Tengo 20 años, me encuentro estudiando Desarrollo de Software y me considero u
 _Aplico y aprendo:_
 
 * C# Windows Forms.
-* HTML/CSS.
-* Visual Basic .NET.
-* Firebase.
 * Microsoft SQL Server.
+* HTML/CSS.
+* Firebase.
 * Vs Code.
 * Visual Studio.
-* MySQL
 
 #### Mis Redes:
 
