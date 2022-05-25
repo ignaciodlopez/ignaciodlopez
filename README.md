@@ -10,7 +10,7 @@ _Aplico y aprendo:_
 * Microsoft SQL Server.
 * HTML/CSS.
 * Firebase.
-* Vs Code.
+* Visual Studio Code.
 * Visual Studio.
 
 #### Mis Redes:
