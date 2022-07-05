@@ -6,12 +6,23 @@ _Tengo 21 años, me encuentro estudiando Desarrollo de Software y me considero u
 
 _Aplico y aprendo:_
 
-* C# Windows Forms.
-* Microsoft SQL Server.
-* HTML/CSS.
-* Firebase.
-* Visual Studio Code.
-* Visual Studio.
+*Programación
+*C# Windows Forms.
+*Visual Basic .NET.
+*HTML/CSS.
+*Bootstrap
+*PHP
+
+*Bases de datos
+*Relacional: Microsoft SQL Server, MySQL.
+*No Relacional: Firebase, MongoDB.
+
+*Tecnologías / Herramientas
+*Visual Studio Code
+*GIT
+*GitHub
+*Bitbucket
+
 
 #### Mis Redes:
 
