@@ -22,6 +22,7 @@ _Tecnologías / Herramientas_
 * GIT
 * GitHub
 * Bitbucket
+* Postman
 
 
 #### Mis Redes:
