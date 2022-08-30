@@ -8,7 +8,6 @@ _Aplico y aprendo:_
 
 _Programación_
 * C# Windows Forms.
-* Visual Basic .NET.
 * HTML/CSS.
 * Bootstrap
 * PHP
