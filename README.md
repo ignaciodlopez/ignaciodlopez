@@ -17,8 +17,8 @@ _Bases de datos_
 * No Relacional: Firebase, MongoDB.
 
 _Tecnologías / Herramientas_
-*Visual Studio 
-*Visual Studio Code
+* Visual Studio 
+* Visual Studio Code
 * GIT
 * GitHub
 * Bitbucket
