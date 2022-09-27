@@ -7,7 +7,7 @@ _Tengo 21 años, me encuentro estudiando Desarrollo de Software y trabajo como B
 _Aplico y aprendo:_
 
 _Programación_
-* C# Windows Forms.
+* C# .Net.
 * HTML/CSS.
 * Bootstrap
 * PHP
