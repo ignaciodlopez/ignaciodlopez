@@ -17,7 +17,8 @@ _Bases de datos_
 * No Relacional: Firebase, MongoDB.
 
 _Tecnologías / Herramientas_
-* Visual Studio Code
+*Visual Studio 
+*Visual Studio Code
 * GIT
 * GitHub
 * Bitbucket
@@ -27,6 +28,6 @@ _Tecnologías / Herramientas_
 #### Mis Redes:
 
 * [Instagram](https://www.instagram.com/ignaciodlopez/)
-* [Mi Web](https://nachobtc.com/) 
+* [Mi Web](https://ignaciodlopez.com/) 
 * [Linkedin](https://www.linkedin.com/in/ignaciol%C3%B3pez/)
 
