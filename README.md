@@ -11,6 +11,8 @@ _Programación_
 * HTML/CSS.
 * Bootstrap
 * PHP
+* Symfony
+* Laravel
 
 _Bases de datos_
 * Relacional: Microsoft SQL Server, MySQL.
