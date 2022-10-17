@@ -25,6 +25,7 @@ _Tecnologías / Herramientas_
 * GitHub
 * Bitbucket
 * Postman
+* DBeaver
 
 
 #### Mis Redes:
