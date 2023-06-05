@@ -24,6 +24,7 @@ _Tecnologías / Herramientas_
 * Bitbucket
 * Postman
 * DBeaver
+* Trello
 
 
 #### Mis Redes:
