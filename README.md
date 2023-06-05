@@ -7,15 +7,14 @@ _Tengo 22 años, soy Backend Developer y me considero un gran entusiasta de la t
 _Aplico y aprendo:_
 
 _Programación_
-* C# .Net.
-* HTML/CSS.
-* Bootstrap
 * PHP
 * Symfony
+* HTML/CSS
+* C# .Net
 
 _Bases de datos_
 * Relacional: Microsoft SQL Server, MySQL.
-* No Relacional: Firebase, MongoDB.
+* No Relacional: MongoDB.
 
 _Tecnologías / Herramientas_
 * Visual Studio 
