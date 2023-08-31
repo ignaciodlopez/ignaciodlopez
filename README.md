@@ -17,14 +17,14 @@ _Bases de datos_
 * No Relacional: MongoDB.
 
 _Tecnologías / Herramientas_
-* Visual Studio 
-* Visual Studio Code
 * GIT
+* Trello
+* DBeaver
 * GitHub
 * Bitbucket
 * Postman
-* DBeaver
-* Trello
+* Visual Studio
+* Visual Studio Code
 
 
 #### Mis Redes:
