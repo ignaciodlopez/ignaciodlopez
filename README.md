@@ -11,6 +11,7 @@ _Programación_
 * Symfony
 * HTML/CSS
 * C# .Net
+* Bootstrap
 
 _Bases de datos_
 * Relacional: Microsoft SQL Server, MySQL.
