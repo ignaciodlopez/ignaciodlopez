@@ -9,9 +9,8 @@ _Aplico y aprendo:_
 _Programación_
 * PHP
 * Symfony
-* HTML/CSS
+* HTML/CSS/Bootstrap
 * C# .Net
-* Bootstrap
 
 _Bases de datos_
 * Relacional: Microsoft SQL Server, MySQL.
