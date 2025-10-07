@@ -1,6 +1,6 @@
 # Qué tal, soy Ignacio D. López.
 
-_Tengo 23 años, soy Backend Developer y me considero un gran entusiasta de la tecnología._
+_Tengo 24 años, soy Backend Developer y me considero un gran entusiasta de la tecnología._
 
 #### Tecnologías y Herramientas afines. 
 
