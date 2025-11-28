@@ -6,12 +6,12 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 Soy desarrollador backend enfocado en construir soluciones sólidas, eficientes y escalables. Me interesa aprender constantemente nuevas tecnologías y mejorar mis prácticas de desarrollo.
 
 ---
 
-## 🧰 Tecnologías & Herramientas
+## Tecnologías & Herramientas
 
 ### Lenguajes y Frameworks
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -40,7 +40,7 @@ Soy desarrollador backend enfocado en construir soluciones sólidas, eficientes 
 
 ---
 
-## 🌐 Mis Redes
+## Mis Redes
 
 <p align="left">
   <a href="https://www.instagram.com/ignaciodlopez/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
