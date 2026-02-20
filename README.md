@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Ignacio D. López</h1>
 
 <p align="center">
-  <strong>Backend Developer | Apasionado por la tecnología | 24 años</strong>
+  <strong>Backend Developer | Apasionado por la tecnología | 25 años</strong>
 </p>
 
 ---
