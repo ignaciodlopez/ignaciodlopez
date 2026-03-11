@@ -7,7 +7,7 @@
 ---
 
 ## Sobre mí
-Soy desarrollador backend enfocado en construir soluciones sólidas, eficientes y escalables. Me interesa aprender constantemente nuevas tecnologías y mejorar mis prácticas de desarrollo.
+Soy desarrollador de software, enfocado en construir soluciones sólidas, eficientes y escalables. Me interesa aprender constantemente nuevas tecnologías y mejorar mis prácticas de desarrollo.
 
 ---
 
